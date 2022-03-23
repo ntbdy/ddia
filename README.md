@@ -1,31 +1,34 @@
-# 设计数据密集型应用 - 中文翻译
+# Designing data-intensive applications - Chinese translation
 
-- 作者： [Martin Kleppmann](https://martin.kleppmann.com)
-- 原名：[《Designing Data-Intensive Applications》](http://shop.oreilly.com/product/0636920032175.do)
-- 译者：[冯若航](https://vonng.com) （[@Vonng](https://vonng.com/en/)）
-- 校订： [@yingang](https://github.com/yingang)
-- 繁体：[繁體中文版本](zh-tw/README.md) by  [@afunTW](https://github.com/afunTW)
+- author： [Martin Kleppmann](https://martin.kleppmann.com)
+- original name：[《Designing Data-Intensive Applications》](http://shop.oreilly.com/product/0636920032175.do)
+- 译translator者：[冯若航](https://vonng.com) （[@Vonng](https://vonng.com/en/)）
+- revision： [@yingang](https://github.com/yingang)
+- Traditional Chinese：[繁體中文版本](zh-tw/README.md) by  [@afunTW](https://github.com/afunTW)
 
 
 > 使用 [Typora](https://www.typora.io)、[Gitbook](https://vonng.gitbook.io/vonng/) 或 [Github Pages](https://vonng.github.io/ddia) 以获取最佳阅读体验。
 >
-> 本地：你可在项目根目录中执行 `make`，并通过浏览器阅读（[在线预览](http://ddia.vonng.com/#/)）。
+> Local: you can execute in the project root directory `make`，and read through the browser（[online preview](http://ddia.vonng.com/#/)）。
 
-## 译序
+## translation order
 
-> 不懂数据库的全栈工程师不是好架构师
+> A full stack engineer who doesn't understand databases is not a good architect
 >
 > —— Vonng
 
-现今，尤其是在互联网领域，大多数应用都属于数据密集型应用。本书从底层数据结构到顶层架构设计，将数据系统设计中的精髓娓娓道来。其中的宝贵经验无论是对架构师、DBA、还是后端工程师、甚至产品经理都会有帮助。
+Today, especially in the Internet domain, most applications are data-intensive. This book describes the essence of data system design from the underlying data structure to the top-level architecture design. The valuable experience in it will be helpful to architects, DBAs, back-end engineers, and even product managers。
 
-这是一本理论结合实践的书，书中很多问题，译者在实际场景中都曾遇到过，读来让人击节扼腕。如果能早点读到这本书，该少走多少弯路啊！
+This is a book that combines theory with practice. There are many problems in the book, which the translator has encountered in actual scenarios, which makes people stunned to read. If I could read this book earlier, I would have avoided many detours!
 
-这也是一本深入浅出的书，讲述概念的来龙去脉而不是卖弄定义，介绍事物发展演化历程而不是事实堆砌，将复杂的概念讲述的浅显易懂，但又直击本质不失深度。每章最后的引用质量非常好，是深入学习各个主题的绝佳索引。
+This is also a book that explains the profound things in a simple way. It tells the ins and outs of concepts instead of showing off their definitions. It introduces the development and evolution of things instead of stacking up facts. It explains complex concepts in an easy-to-understand manner, but goes straight to the essence without losing depth. The citations at the end of each chapter are of very good quality and an excellent index for in-depth study of individual topics.
 
-本书为数据系统的设计、实现、与评价提供了很好的概念框架。读完并理解本书内容后，读者可以轻松看破大多数的技术忽悠，与技术砖家撕起来虎虎生风🤣。
+This book provides a good conceptual framework for the design, implementation, and evaluation of data systems. After reading and understanding the content of this book, readers can easily see through most of the technical flickering and tearing up with technical bricklayers.🤣。
 
-这是 2017 年译者读过最好的一本技术类书籍，这么好的书没有中文翻译，实在是遗憾。某不才，愿为先进技术文化的传播贡献一份力量。既可以深入学习有趣的技术主题，又可以锻炼中英文语言文字功底，何乐而不为？
+Zhè shì
+2 / 5,000
+Translation results
+This is  2017 This is the best technical book I have ever read. It is a pity that there is no Chinese translation for such a good book. A certain talent, willing to contribute to the dissemination of advanced technology culture. Not only can you learn interesting technical topics in depth, but you can also exercise your Chinese and English language skills. Why not do it?？
 
 
 ## 前言
